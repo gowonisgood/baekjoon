@@ -1,3 +1,4 @@
+//This is yame of linked list
 #include <bits/stdc++.h>
 using namespace std;
 
