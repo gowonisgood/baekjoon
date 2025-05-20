@@ -1,0 +1,3 @@
+C:/Users/gowon/baekjoon/backtracking/1182/cmake-build-debug/CMakeFiles/1182.dir
+C:/Users/gowon/baekjoon/backtracking/1182/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gowon/baekjoon/backtracking/1182/cmake-build-debug/CMakeFiles/rebuild_cache.dir
